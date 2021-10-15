@@ -1,0 +1,14 @@
+#Jetbrains Projectfolder
+/.idea/
+
+#.save files from some IDE
+*.save*
+
+# Python Cache | Byte-compiled / optimized / DLL files
+__pycache__/
+
+#
+*.swp
+
+#test folder
+test/
