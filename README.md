@@ -1,7 +1,5 @@
 # Local network Botnet
 
-![gif](https://media4.giphy.com/media/mG4hIoKh0ID939hsIW/giphy.gif?cid=790b76117192966b128799a991c8b0056413295ce2784737&rid=giphy.gif&ct=g)
-
 ## How to use
 `git clone https://github.com/le3ch-tech/hermod-botnet`
 
